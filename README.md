@@ -19,3 +19,9 @@ Download/Clone
  ![image](https://user-images.githubusercontent.com/48305341/209478996-fa959435-1cf4-46a4-bc90-e3cd37fa13e6.png)
 
 # SpringerLink Scraper with google colab
+1. Buka File SpringerLink Scraper.ipynb di google colab/jupiter
+2. Ubah URL sesuai keyword yang diinginkan
+
+![image](https://user-images.githubusercontent.com/48305341/209479216-99d3c070-f698-4beb-9153-d68383de82d3.png)
+
+3. kemduian Run All
